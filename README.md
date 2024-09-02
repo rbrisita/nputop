@@ -1,6 +1,6 @@
 # NPU Top
 
-As of now, specifically for the Rockchip RK3588 CPU that contains 3 NPUs @ 2 TOPS each for a total of 6 TOPs.
+As of now, specifically for the Rockchip RK3588 CPU that contains 3 NPUs @ 2 TOPS each for a total of 6 TOPS.
 
 ## Orange Pi 5
 

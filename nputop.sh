@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ############################################################
-# Read and parse info to create NPU observabiility.
+# Read and parse info to create NPU observability.
 # Author: Robert Brisita @rbrisita
 # License: Apache-2.0
 ############################################################
